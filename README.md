@@ -2,6 +2,6 @@
 `Software Engineer`
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonrax&hide=jupyter%20notebook,tex&layout=compact" /><br/>
+<img src="https://github-readme-stats-dusky-six-60.vercel.app/api/top-langs/?username=wonrax&hide=jupyter%20notebook,tex,vim%20script&layout=compact&langs_count=14" /><br/>
 <img src="https://hhai.dev/api/public/github-profile-views?v=1" />
 
